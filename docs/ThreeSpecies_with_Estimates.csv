@@ -1,0 +1,4 @@
+Species,TotalSleep,Est_TotalSleep,Resid,LNBodyWt,LNLifeSpan,Gestation,PredF
+ArcticFox,12.5,12.25,0.25,1.22,2.64,60,1
+Baboon,9.8,10.51,-0.7099999999999991,2.36,3.3,180,4
+Donkey,3.1,1.79,1.31,5.23,3.69,365,5
